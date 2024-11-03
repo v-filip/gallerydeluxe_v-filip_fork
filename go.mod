@@ -1,4 +1,4 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/v-filip/gallerydeluxe_v-filip_fork
 
 go 1.19
 
